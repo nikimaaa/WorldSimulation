@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.block{
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.block-woman{
+  background: rgb(238, 146, 246);
+}
+
+.block-man{
+  background: rgb(147, 229, 250);
+}
+
+.block-stat{
+  background: rgb(245, 245, 159);
+}
